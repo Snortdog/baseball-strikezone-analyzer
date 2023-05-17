@@ -45,3 +45,5 @@ View the PDF: After the program finishes running, a PDF file will be created in 
 
 Please note that this program does not normalize the strike zone for batter height, so the top and bottom of the strike zone will be the same for all hitters. This may cause the program's analysis to be inaccurate at times. 
 
+Edit Notes: green data points are called balls, and red data points are called strikes. | the strike zone grid is from the pitcher's point of view.
+
