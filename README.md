@@ -12,11 +12,9 @@ Install Python: Open the downloaded file and follow the installation instruction
 
 You will also need to install a few Python libraries: pandas, matplotlib, and tkinter. You can install these using pip, which is a package manager for Python. To install these libraries, open a terminal or command prompt and type the following commands:
 
-pip install pandas
-
-pip install matplotlib
-
-pip install tkinter
+'pip install pandas'
+'pip install matplotlib'
+'pip install tkinter'
 
 
 
