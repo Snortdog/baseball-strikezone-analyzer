@@ -31,7 +31,7 @@ Extract the files to somewhere on your computer.
 
 Open command prompt.
 
-cd to the directory that contains uGraderV3.py (the easiest way to do this is to open the directory that contains the uGraderV3.py file, click on the dropdown menu above the file, copy the file location, type 'cd' into command prompt followed by a space, then paste the file location, then press 'Enter')
+cd to the directory that contains uGraderV3.py
 
 type 'py uGraderV3.py' to run the program
 
